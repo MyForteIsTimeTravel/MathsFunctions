@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-// Conflict Comment
-=======
-// Conflict Comment 
->>>>>>> conflict
+// conflict comment
+// conflict twooo
 int add (int a, int b) { return a + b; }
 int sub (int a, int b) { return a - b; }
 int mul (int a, int b) { return a * b; }
